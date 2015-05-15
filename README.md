@@ -25,8 +25,10 @@ Bookmarks for android development
   + [greenDAO](http://greendao-orm.com/) – Android ORM for SQLite
   + [ActiveAndroid](http://www.activeandroid.com/) - Active record style SQLite persistence for Android
   + [UcaORM](https://github.com/UCASoft/UcaOrm) - new generation orm for Android
+  
 + DEBUG
-  + [Stetho](http://facebook.github.io/stetho/)A debug bridge for Android applications
+  + [Stetho](http://facebook.github.io/stetho/) - A debug bridge for Android applications
+  
 + Utils
   + [AndroidAnnotation](http://androidannotations.org/) - Fast Android Development. Easy maintainance.
   + [Android Query](https://code.google.com/p/android-query/) -  A light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
